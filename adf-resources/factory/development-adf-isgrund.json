@@ -1,0 +1,9 @@
+{
+	"name": "development-adf-isgrund",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "162b2767-f707-487e-a78b-ce2bbd6b6f47",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
